@@ -1,0 +1,12 @@
+body {
+    background: #818285;
+    margin: 20px;
+    text-align: center;
+}
+h1 {
+    color:white;
+    margin-top:200px;
+    align-self:center;
+    font-family: monospace;
+    font-size:42px;
+}
